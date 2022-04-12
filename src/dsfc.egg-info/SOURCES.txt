@@ -5,7 +5,4 @@ src/dsfc.egg-info/PKG-INFO
 src/dsfc.egg-info/SOURCES.txt
 src/dsfc.egg-info/dependency_links.txt
 src/dsfc.egg-info/top_level.txt
-src/dsfc/features/__init__.py
-src/dsfc/features/create_double.py
 src/dsfc/utils/__init__.py
-src/dsfc/utils/transform.py
